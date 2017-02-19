@@ -1,6 +1,8 @@
 #IMLIte
 >一个简单的Web IM
 
+![](demo.png)
+
 ###技术栈
 
 web端：Vue(Version 1.0+)
